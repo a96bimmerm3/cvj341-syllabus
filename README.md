@@ -2,10 +2,10 @@
 ##School of Communication
 ###CVJ 341: Web Design
 
-**Section:** <!-- J --><br/>
+**Section:** <br/>
 **Term:** Fall 2014<br/>
-**Meeting time:** <!-- Monday and Wednesday, 5-6:15 p.m.--><br/>
-**Room:** <!-- Wolfson 2046 --><br/>
+**Meeting time:** <br/>
+**Room:** <br/>
 
 ###Instructor: Erin Brown
 **Office:** Wolfson 2011<br/>
